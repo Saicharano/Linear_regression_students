@@ -10,7 +10,7 @@ x = df[[
     "Hours_Studied",
     "Attendance",
     "Sleep_Hours",
-    "Previous_Score",
+    "Previous_Score", 
     "Practice_Tests"
 ]]
 y = df["Final_Score"]
