@@ -39,3 +39,4 @@ new_stud = pd.DataFrame({
 })
 prediction = model.predict(new_stud)
 print(prediction)
+print(mse)
